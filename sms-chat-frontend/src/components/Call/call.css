@@ -1,0 +1,21 @@
+.call {
+  position: absolute;
+  top: 0;
+  right: 0;
+  margin: 1rem 2rem;
+  padding: 1rem;
+  background-color: aliceblue;
+  border-radius: 10px;
+}
+.call > div:nth-child(2) {
+  margin-top: 10px;
+  background-color: rgb(34, 189, 34);
+  color: white;
+  font-weight: 700;
+  text-align: center;
+}
+.decline {
+  background-color: rgb(215, 53, 53);
+  color: white;
+  text-align: center;
+}

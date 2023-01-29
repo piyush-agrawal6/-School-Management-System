@@ -1,0 +1,19 @@
+.header {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 1rem;
+  gap: 20px;
+  background-color: rgba(240, 248, 255, 0.393);
+
+}
+.header a {
+  color: white;
+  background-color: #5a77e8;
+  border-radius: 10px;
+  padding: 5px 10px;
+  cursor: pointer;
+  text-decoration: none;
+  font-weight: 500;
+}

@@ -1,0 +1,32 @@
+.video {
+  width: 100vw;
+  display: flex;
+  margin-top: 25px;
+  height: 100vh;
+}
+.video > div {
+  width: 600px;
+  justify-content: center;
+  align-items: center;
+  margin: 0 auto;
+}
+video {
+  width: 100%;
+}
+@media screen and (max-width: 1100px) {
+  .video > div {
+    width: 400px;
+  }
+}
+@media screen and (max-width: 900px) {
+  .video {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+  }
+}
+@media screen and (max-width: 50px) {
+  .video > div {
+    width: 300px;
+  }
+}
