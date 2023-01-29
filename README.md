@@ -111,7 +111,7 @@ Server - https://ill-blue-wildebeest-kilt.cyclic.app
 
 ## Blog / Presentation
 
-Presentation - https://drive.google.com/file/d/1Yb2xvW3b5Gdk2MKG3CZtSUze4Qz-slDY/view?usp=share_link
+Presentation - https://drive.google.com/file/d/1Yb2xvW3b5Gdk2MKG3CZtSUze4Qz-slDY/view?usp=share_link 
 
 ## Team Members / Contributors
 
