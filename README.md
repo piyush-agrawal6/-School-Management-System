@@ -29,7 +29,7 @@ Start the server
 # School Management System
 
 School management system is  a software to control all the management related to a school online, like asking doubts to teacher , one to one video call session 
-with teacher, adding school notices , making reports of students , attending quizes online , solving doubts , maintaing profiles and many more.
+with teacher, adding school notices , making reports of students , attending quiz online , solving doubts , maintaining profiles and many more.
 
 ## Tech Stack
 
