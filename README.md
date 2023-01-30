@@ -56,6 +56,11 @@ with teacher, adding school notices , making reports of students , attending qui
 - **Netlify** (main dashboard)
 - **Cyclic** (main backend)
 
+**Login Credentials**
+
+- ID - 100
+- Pass - piyush
+
 
 ## 🔗 Links
 
@@ -69,6 +74,7 @@ Server - https://ill-blue-wildebeest-kilt.cyclic.app
 
 ## Features
 
+- Proper Authentication
 - Proper Authentication
 - Admin Controls
 - CRUD Operations
